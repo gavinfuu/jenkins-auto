@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jenkins-auto Maven Webapp"
+  id="myeclipse.1464851442084"
+  context-root="/jenkins-auto"
+  j2ee-spec="6.0"
+  archive="jenkins-auto Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
